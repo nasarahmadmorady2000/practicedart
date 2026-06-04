@@ -1,7 +1,6 @@
-main() {
-  // int calculate() {
-  //   return 9 * 7;
-  // }
+int calculate() {
+  return 9 * 7;
+}
 
   // var ahmad = "this is my teacher name";
   // var num = ahmad;
@@ -20,9 +19,4 @@ main() {
   //   print(i);
   //   i++;
   // }
-  for (var i = 10; i < 10; i++) {
-    for (var n = 0; n < 5; n++) {
-      print("*");
-    }
-  }
-}
+ 
