@@ -1,22 +1,9 @@
-int calculate() {
-  return 9 * 7;
+main() {
+  print(
+    'The answer to the Ultimate Question of Life, The Universe, and Everything is ${calculate()}.',
+  );
 }
 
-  // var ahmad = "this is my teacher name";
-  // var num = ahmad;
-  // var condition = 6 > 7;
-  // if (condition) {
-  //   print("this is true");
-
-  //   print(
-  //     'The answer to the Ultimate Question of Life, The Universe, and Everything is ${calculate()}.',
-  //   );
-  // } else {
-  //   print(num);
-  // }
-  // int i = 0;
-  // while (i < 5) {
-  //   print(i);
-  //   i++;
-  // }
- 
+int calculate() {
+  return 6 * 7;
+}
